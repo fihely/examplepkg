@@ -1,6 +1,7 @@
 # examplepkg
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/fihely/examplepkg.svg?branch=master)](https://travis-ci.org/fihely/examplepkg)
 <!-- badges: end -->
 
 The goal of examplepkg is to ...
