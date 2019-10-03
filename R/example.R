@@ -21,7 +21,7 @@ example_function <- function(){
 #' @examples give_me_y(x = 3, n = 4)
 give_me_y <- function(x,n){
   y <- x * n
-  y
+  return(y)
 }
 
 
