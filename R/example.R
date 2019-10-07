@@ -28,12 +28,12 @@ give_me_y <- function(x,n){
 
 #' Tests if a number if bigger than 10
 #'
-#' @param n
+#' @param n numeric
 #'
 #' @return logical
 #' @export
 #'
-#' @examples
+#' @examples bigger_than_10(11)
 bigger_than_10 <- function(n){
   if(n > 10){
     return(TRUE)

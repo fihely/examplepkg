@@ -16,5 +16,5 @@ logical
 Tests if a number if bigger than 10
 }
 \examples{
-bigger_than_10(n = 11)
+bigger_than_10(11)
 }
